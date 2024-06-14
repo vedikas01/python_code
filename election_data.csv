@@ -1,0 +1,19 @@
+PC Name,State,EVM Votes Counted,Postal Votes Counted,EVM Votes Polled, Difference , Margin , Difference > Margin , Postalvotes > Margin 
+Adilabad,Telangana," 12,19,982 "," 15,615 "," 12,21,553 "," (1,571)"," 90,652 ",FALSE,FALSE
+Agra,Uttar Pradesh," 11,19,183 "," 4,596 "," 11,20,864 "," (1,681)"," 2,71,294 ",FALSE,FALSE
+Ahmedabad East,Gujarat," 11,14,791 "," 13,548 "," 11,15,317 ", (526)," 4,61,755 ",FALSE,FALSE
+Ahmedabad West,Gujarat," 9,57,571 "," 9,075 "," 9,57,573 ", (2)," 2,86,437 ",FALSE,FALSE
+Ahmednagar,Maharashtra," 13,20,318 "," 5,159 "," 13,20,168 ", 150 ," 28,929 ",FALSE,FALSE
+AJMER,Rajasthan," 11,90,576 "," 10,603 "," 11,90,561 ", 15 ," 3,29,991 ",FALSE,FALSE
+Akbarpur,Uttar Pradesh," 10,79,818 "," 7,135 "," 10,79,978 ", (160)," 44,345 ",FALSE,FALSE
+Akola,Maharashtra," 11,67,768 "," 5,304 "," 11,68,366 ", (598)," 40,626 ",FALSE,FALSE
+Alappuzha,Kerala," 10,42,798 "," 15,905 "," 10,50,726 "," (7,928)"," 63,513 ",FALSE,FALSE
+Alathur,Kerala," 9,81,566 "," 10,702 "," 9,81,945 ", (379)," 20,111 ",FALSE,FALSE
+Aligarh,Uttar Pradesh," 11,31,155 "," 2,211 "," 11,37,051 "," (5,896)"," 15,647 ",FALSE,FALSE
+Alipurduars,West Bengal," 14,14,597 "," 6,792 "," 14,14,258 ", 339 ," 75,447 ",FALSE,FALSE
+Allahabad,Uttar Pradesh," 9,45,146 "," 1,854 "," 9,46,076 ", (930)," 58,795 ",FALSE,FALSE
+Almora,Uttarakhand," 6,52,412 "," 16,085 "," 6,52,726 ", (314)," 2,34,097 ",FALSE,FALSE
+ALWAR,Rajasthan," 12,37,473 "," 15,965 "," 12,37,446 ", 27 ," 48,282 ",FALSE,FALSE
+Amalapuram (Sc),Andhra Pradesh," 12,84,957 "," 16,149 "," 12,84,018 ", 939 ," 3,42,196 ",FALSE,FALSE
+.....so on...
+Total,," 64,16,18,937 "," 37,44,508 "," 64,21,38,442 "," (5,19,505)",,,
